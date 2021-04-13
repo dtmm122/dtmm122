@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dtmm122
+- 👀 I’m interested in python
+- 🌱 I’m currently learning Making games on pycharm with pygame
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me dtmm122@gmail.com
